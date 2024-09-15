@@ -3,7 +3,7 @@
 **Created:** 9/14/24  
 **Purpose:** First ML project focused on cleaning data, training a basic model, and deploying locally.
 
-This project was coded entirely by me, except for the `index.html` file in the `templates` folder. The HTML file was generated with ChatGPT, as I don't know HTML and am lazy.
+This project was coded entirely by me, except for the `index.html` file in the `templates` folder. The HTML file was generated with ChatGPT, as I don't know HTML well and am lazy.
 Also, a quick note, I just realized in all my files, I spelled IMDB "IMBD", thats embarrassing...
 
 ### **About the Project**:
