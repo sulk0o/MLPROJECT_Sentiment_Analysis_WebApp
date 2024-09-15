@@ -65,4 +65,4 @@ def predict():
         return render_template('index.html', prediction=sentiment)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
